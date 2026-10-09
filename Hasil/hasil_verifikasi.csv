@@ -1,0 +1,19 @@
+﻿Nama file,Jenis gambar,Hasil OCR,Status TTD,Persentase foreground (%),Nilai CER (%),Metode terbaik
+01_HighQuality_Enhanced (4).jpg,ASLI,5,PRESENT,5.97,93.33,Sharpen
+01_HighQuality_Enhanced (4)_tanpa_ttd.png,SIMULASI TANPA TTD,7-7,ABSENT,0.08,93.33,Otsu Threshold
+02_LowContrast (3).jpg,ASLI,1,PRESENT,3.8,93.33,Otsu Threshold
+02_LowContrast (3)_tanpa_ttd.png,SIMULASI TANPA TTD,-7,ABSENT,0.02,93.33,Grayscale
+03_Blurred (3).jpg,ASLI,,PRESENT,4.96,100.0,Grayscale
+03_Blurred (3)_tanpa_ttd.png,SIMULASI TANPA TTD,,ABSENT,0.01,100.0,Grayscale
+04_HighNoise (3).jpg,ASLI,77,PRESENT,4.82,93.33,Otsu Threshold
+04_HighNoise (3)_tanpa_ttd.png,SIMULASI TANPA TTD,14,ABSENT,0.07,93.33,Sharpen
+05_LowResolution_Upsampled (2).jpg,ASLI,7,PRESENT,4.68,93.33,Adaptive Threshold
+05_LowResolution_Upsampled (2)_tanpa_ttd.png,SIMULASI TANPA TTD,7-,ABSENT,0.07,93.33,Adaptive Threshold
+06_Faded_Underexposed (2).jpg,ASLI,1,PRESENT,6.69,93.33,Denoise + CLAHE
+06_Faded_Underexposed (2)_tanpa_ttd.png,SIMULASI TANPA TTD,7,ABSENT,0.1,93.33,Adaptive Threshold
+07_ColorShift_WarmTint (2).jpg,ASLI,,PRESENT,4.45,100.0,Grayscale
+07_ColorShift_WarmTint (2)_tanpa_ttd.png,SIMULASI TANPA TTD,7,ABSENT,0.11,93.33,Grayscale
+08_JPEGCompression_Artifacts (2).jpg,ASLI,,PRESENT,5.3,100.0,Grayscale
+08_JPEGCompression_Artifacts (2)_tanpa_ttd.png,SIMULASI TANPA TTD,-,ABSENT,0.04,100.0,Grayscale
+09_CombinedDegradation (1).jpg,ASLI,,PRESENT,6.23,100.0,Grayscale
+09_CombinedDegradation (1)_tanpa_ttd.png,SIMULASI TANPA TTD,,ABSENT,0.07,100.0,Grayscale

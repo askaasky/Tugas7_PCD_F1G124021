@@ -1,0 +1,91 @@
+﻿Nama file,Jenis gambar,Metode,Hasil OCR,CER (%)
+01_HighQuality_Enhanced (4).jpg,ASLI,Grayscale,,100.0
+01_HighQuality_Enhanced (4).jpg,ASLI,Denoise + CLAHE,,100.0
+01_HighQuality_Enhanced (4).jpg,ASLI,Sharpen,5,93.33
+01_HighQuality_Enhanced (4).jpg,ASLI,Adaptive Threshold,,100.0
+01_HighQuality_Enhanced (4).jpg,ASLI,Otsu Threshold,7,93.33
+01_HighQuality_Enhanced (4)_tanpa_ttd.png,SIMULASI TANPA TTD,Grayscale,-,100.0
+01_HighQuality_Enhanced (4)_tanpa_ttd.png,SIMULASI TANPA TTD,Denoise + CLAHE,,100.0
+01_HighQuality_Enhanced (4)_tanpa_ttd.png,SIMULASI TANPA TTD,Sharpen,-,100.0
+01_HighQuality_Enhanced (4)_tanpa_ttd.png,SIMULASI TANPA TTD,Adaptive Threshold,-,100.0
+01_HighQuality_Enhanced (4)_tanpa_ttd.png,SIMULASI TANPA TTD,Otsu Threshold,7-7,93.33
+02_LowContrast (3).jpg,ASLI,Grayscale,,100.0
+02_LowContrast (3).jpg,ASLI,Denoise + CLAHE,,100.0
+02_LowContrast (3).jpg,ASLI,Sharpen,,100.0
+02_LowContrast (3).jpg,ASLI,Adaptive Threshold,,100.0
+02_LowContrast (3).jpg,ASLI,Otsu Threshold,1,93.33
+02_LowContrast (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Grayscale,-7,93.33
+02_LowContrast (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Denoise + CLAHE,-,100.0
+02_LowContrast (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Sharpen,,100.0
+02_LowContrast (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Adaptive Threshold,-,100.0
+02_LowContrast (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Otsu Threshold,-7,93.33
+03_Blurred (3).jpg,ASLI,Grayscale,,100.0
+03_Blurred (3).jpg,ASLI,Denoise + CLAHE,,100.0
+03_Blurred (3).jpg,ASLI,Sharpen,,100.0
+03_Blurred (3).jpg,ASLI,Adaptive Threshold,,100.0
+03_Blurred (3).jpg,ASLI,Otsu Threshold,,100.0
+03_Blurred (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Grayscale,,100.0
+03_Blurred (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Denoise + CLAHE,,100.0
+03_Blurred (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Sharpen,,100.0
+03_Blurred (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Adaptive Threshold,,100.0
+03_Blurred (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Otsu Threshold,,100.0
+04_HighNoise (3).jpg,ASLI,Grayscale,,100.0
+04_HighNoise (3).jpg,ASLI,Denoise + CLAHE,,100.0
+04_HighNoise (3).jpg,ASLI,Sharpen,,100.0
+04_HighNoise (3).jpg,ASLI,Adaptive Threshold,,100.0
+04_HighNoise (3).jpg,ASLI,Otsu Threshold,77,93.33
+04_HighNoise (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Grayscale,,100.0
+04_HighNoise (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Denoise + CLAHE,343,100.0
+04_HighNoise (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Sharpen,14,93.33
+04_HighNoise (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Adaptive Threshold,,100.0
+04_HighNoise (3)_tanpa_ttd.png,SIMULASI TANPA TTD,Otsu Threshold,-,100.0
+05_LowResolution_Upsampled (2).jpg,ASLI,Grayscale,,100.0
+05_LowResolution_Upsampled (2).jpg,ASLI,Denoise + CLAHE,,100.0
+05_LowResolution_Upsampled (2).jpg,ASLI,Sharpen,,100.0
+05_LowResolution_Upsampled (2).jpg,ASLI,Adaptive Threshold,7,93.33
+05_LowResolution_Upsampled (2).jpg,ASLI,Otsu Threshold,,100.0
+05_LowResolution_Upsampled (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Grayscale,,100.0
+05_LowResolution_Upsampled (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Denoise + CLAHE,,100.0
+05_LowResolution_Upsampled (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Sharpen,,100.0
+05_LowResolution_Upsampled (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Adaptive Threshold,7-,93.33
+05_LowResolution_Upsampled (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Otsu Threshold,-,100.0
+06_Faded_Underexposed (2).jpg,ASLI,Grayscale,,100.0
+06_Faded_Underexposed (2).jpg,ASLI,Denoise + CLAHE,1,93.33
+06_Faded_Underexposed (2).jpg,ASLI,Sharpen,,100.0
+06_Faded_Underexposed (2).jpg,ASLI,Adaptive Threshold,7,93.33
+06_Faded_Underexposed (2).jpg,ASLI,Otsu Threshold,,100.0
+06_Faded_Underexposed (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Grayscale,,100.0
+06_Faded_Underexposed (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Denoise + CLAHE,,100.0
+06_Faded_Underexposed (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Sharpen,,100.0
+06_Faded_Underexposed (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Adaptive Threshold,7,93.33
+06_Faded_Underexposed (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Otsu Threshold,,100.0
+07_ColorShift_WarmTint (2).jpg,ASLI,Grayscale,,100.0
+07_ColorShift_WarmTint (2).jpg,ASLI,Denoise + CLAHE,,100.0
+07_ColorShift_WarmTint (2).jpg,ASLI,Sharpen,4,100.0
+07_ColorShift_WarmTint (2).jpg,ASLI,Adaptive Threshold,,100.0
+07_ColorShift_WarmTint (2).jpg,ASLI,Otsu Threshold,,100.0
+07_ColorShift_WarmTint (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Grayscale,7,93.33
+07_ColorShift_WarmTint (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Denoise + CLAHE,3,100.0
+07_ColorShift_WarmTint (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Sharpen,7,93.33
+07_ColorShift_WarmTint (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Adaptive Threshold,-,100.0
+07_ColorShift_WarmTint (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Otsu Threshold,-,100.0
+08_JPEGCompression_Artifacts (2).jpg,ASLI,Grayscale,,100.0
+08_JPEGCompression_Artifacts (2).jpg,ASLI,Denoise + CLAHE,,100.0
+08_JPEGCompression_Artifacts (2).jpg,ASLI,Sharpen,3,100.0
+08_JPEGCompression_Artifacts (2).jpg,ASLI,Adaptive Threshold,,100.0
+08_JPEGCompression_Artifacts (2).jpg,ASLI,Otsu Threshold,,100.0
+08_JPEGCompression_Artifacts (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Grayscale,-,100.0
+08_JPEGCompression_Artifacts (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Denoise + CLAHE,,100.0
+08_JPEGCompression_Artifacts (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Sharpen,,100.0
+08_JPEGCompression_Artifacts (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Adaptive Threshold,,100.0
+08_JPEGCompression_Artifacts (2)_tanpa_ttd.png,SIMULASI TANPA TTD,Otsu Threshold,,100.0
+09_CombinedDegradation (1).jpg,ASLI,Grayscale,,100.0
+09_CombinedDegradation (1).jpg,ASLI,Denoise + CLAHE,3,100.0
+09_CombinedDegradation (1).jpg,ASLI,Sharpen,3,100.0
+09_CombinedDegradation (1).jpg,ASLI,Adaptive Threshold,,100.0
+09_CombinedDegradation (1).jpg,ASLI,Otsu Threshold,,100.0
+09_CombinedDegradation (1)_tanpa_ttd.png,SIMULASI TANPA TTD,Grayscale,,100.0
+09_CombinedDegradation (1)_tanpa_ttd.png,SIMULASI TANPA TTD,Denoise + CLAHE,,100.0
+09_CombinedDegradation (1)_tanpa_ttd.png,SIMULASI TANPA TTD,Sharpen,,100.0
+09_CombinedDegradation (1)_tanpa_ttd.png,SIMULASI TANPA TTD,Adaptive Threshold,-,100.0
+09_CombinedDegradation (1)_tanpa_ttd.png,SIMULASI TANPA TTD,Otsu Threshold,,100.0
